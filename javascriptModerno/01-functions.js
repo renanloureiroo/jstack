@@ -1,0 +1,3 @@
+function minhaFunction() {}
+
+const minhaArrowFunction = () => {};
